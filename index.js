@@ -1,13 +1,13 @@
 
 const cardObjectDefinitions = [
-    {id:1, imagePath:'/cards/card-KingHearts.png'},
-    {id:2, imagePath:'/cards/card-JackClubs.png'},
-    {id:3, imagePath:'/cards/card-QueenDiamonds.png'},
-    {id:4, imagePath:'/cards/card-AceSpades.png'}
+    {id:1, imagePath:'./cards/card-KingHearts.png'},
+    {id:2, imagePath:'./cards/card-JackClubs.png'},
+    {id:3, imagePath:'./cards/card-QueenDiamonds.png'},
+    {id:4, imagePath:'./cards/card-AceSpades.png'}
 ]
 const aceId = 4
 
-const cardBackImgPath = '/cards/card-back-blue.png'
+const cardBackImgPath = './cards/card-back-blue.png'
 
 let cards = []
 
