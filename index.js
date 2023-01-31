@@ -9,7 +9,7 @@ const aceId = 4
 
 const cardBackImgPath = './cards/card-back-blue.png'
 
-let cards = []
+let cards = [];
 
 const playGameButtonElem = document.getElementById('playGame')
 
